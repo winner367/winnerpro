@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 WinnerAI – Trading Dashboard
 
 A simple trading dashboard UI built with **React**, **Vite**, and **Tailwind CSS**. Deployed using **GitHub Pages**.
@@ -17,3 +18,6 @@ A simple trading dashboard UI built with **React**, **Vite**, and **Tailwind CSS
 ```bash
 npm install
 npm run dev
+=======
+# winnerpro
+>>>>>>> c9b1febe4f060b1e39b7a5c6a69d6b574ae36641
